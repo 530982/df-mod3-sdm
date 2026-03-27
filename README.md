@@ -165,21 +165,6 @@ These techniques are useful in forensic investigations to:
 
 ---
 
-## Screenshots Included
-
-The following verification screenshots are included in this repository:
-
-* PowerShell commands running
-* Folder creation and structure
-* Encryption commands
-* Permission changes
-* Script creation in VS Code
-* Script execution
-* Backup folder results
-* Git commit and push
-
----
-
 ## Conclusion
 
 This project demonstrated how PowerShell can be used for secure data management. By combining file organization, encryption, permission management, and scripting, it is possible to maintain confidentiality, integrity, and availability of digital evidence. These skills are essential for digital forensics and system administration.
